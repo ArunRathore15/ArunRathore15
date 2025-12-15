@@ -1,31 +1,65 @@
-<h1 align="center">Hi 👋, I'm Arun Rathore</h1>
-<h3 align="center">A passionate Backend Java Developer from Bharat(India)</h3>
+<div align="center">
 
-<img align="right" alt="Coding" width="550" src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+# 👋 Hi, I'm Arun Rathore
+### A Passionate Backend Java Developer from Bharat (India)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arunrathore15&label=Profile%20views&color=0e75b6&style=flat" alt="arunrathore15" /> </p>
+</div>
 
-- 🌱 I’m currently learning **Spring and Spring boot framework**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/ArunRathore15](https://github.com/ArunRathore15)
-
-- 💬 Ask me about **Core and Advance Java, Spring Framework, Hibernate and Mysql.**
-
-- 📫 How to reach me **arunrathore968588@gmail.com**
-
-- ⚡ Fun fact **I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arunrathore15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arunrathore15" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/arun_rathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arun_rathore" height="30" width="40" /></a>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=arunrathore15&label=PROFILE+VIEWS&color=2196F3&style=for-the-badge" alt="Profile views">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🚀 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunrathore15&show_icons=true&locale=en&layout=compact" alt="arunrathore15" /></p>
+* **🌱 Currently Deep Diving Into:** **Spring and Spring Boot Frameworks** for building robust and scalable microservices.
+* **💻 My Projects:** Find all my work and contributions here: [ArunRathore15 on GitHub](https://github.com/ArunRathore15)
+* **💬 Let's Talk About:** **Core and Advanced Java**, **Spring Framework**, **Hibernate**, and **MySQL**. I enjoy sharing technical knowledge!
+* **📧 Reach Me:** The fastest way is via email at [arunrathore968588@gmail.com](mailto:arunrathore968588@gmail.com)
+* **💡 Fun Fact:** I am funny (and a massive Java enthusiast!).
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arunrathore15&show_icons=true&locale=en" alt="arunrathore15" /></p>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunrathore15&" alt="arunrathore15" /></p>
+<div align="center">
+  <img alt="Coding Illustration" width="48%" src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+  &nbsp; &nbsp; <img alt="Enjoying Java" width="40%" src="https://raw.githubusercontent.com/Deathopex/Deathopex/main/java.gif">
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/arunrathore15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn: arunrathore15" height="40" width="50" /></a>
+<a href="https://www.leetcode.com/arun_rathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode: arun_rathore" height="40" width="50" /></a>
+</p>
+
+---
+
+## 🛠️ Languages and Tools
+
+<div align="center">
+<p>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="55" height="55"/> </a>
+    <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" title="Spring" width="55" height="55"/> </a>
+    <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" title="Hibernate" width="55" height="55"/> </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" width="55" height="55"/> </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" title="PostgreSQL" width="55" height="55"/> </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="55" height="55"/> </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" title="Docker" width="55" height="55"/> </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="55" height="55"/> </a>
+</p>
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arunrathore15&show_icons=true&locale=en&theme=buefy&hide_title=true" alt="Arun Rathore's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunrathore15&theme=buefy" alt="Arun Rathore's Streak Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arunrathore15&show_icons=true&locale=en&layout=compact&theme=buefy" alt="Top Languages" />
+</div>
